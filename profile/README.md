@@ -4,7 +4,7 @@
 
 Aquí encontrarás diferentes verticales con el desafío emocionante en distintas áreas tecnológicas. Cada vertical tiene su propio repositorio y tiene informacion especifica dictada por nuestros mentores, asegurando un entorno colabborativo entre verticales.
 
-Añadido, por aca esta el Repositorio de Paloma Ocanha (Cliente), para investigaciones y ver como realizar el proyecto [Paloma](https://github.com/The-Bridge-Challenge/DESAFIO_TRIPULACIONES_SEVERAL)
+Añadido, por aca esta el Repositorio de Paloma Ocanha/Several Energy (Cliente), para investigaciones y ver como realizar el proyecto [Several Energy](https://github.com/The-Bridge-Challenge/DESAFIO_TRIPULACIONES_SEVERAL)
 
 ## Verticales Disponibles:
 
