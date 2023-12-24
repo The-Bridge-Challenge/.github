@@ -2,7 +2,7 @@
 
 ¡Bienvenido al repositorio del Desafío Tech Challenge! 🚀
 
-Aquí encontrarás diferentes verticales con desafíos emocionantes en distintas áreas tecnológicas. Cada vertical tiene su propio repositorio y permisos específicos, asegurando un entorno colaborativo y enfocado.
+Aquí encontrarás diferentes verticales con el desafío emocionante en distintas áreas tecnológicas. Cada vertical tiene su propio repositorio y tiene informacion especifica dictada por nuestros mentores, asegurando un entorno colabborativo entre verticales.
 
 ## Verticales Disponibles:
 
