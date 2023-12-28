@@ -35,5 +35,5 @@ Añadido, por aca esta el Repositorio de Paloma Ocanha/Several Energy (Cliente),
 ## Instrucciones Importantes:
 
 - **No** corregir, editar ni crear pull requests o issues fuera de tu vertical correspondiente.
-- Cada vertical tiene permisos específicos para un entorno colaborativo y enfocado.
+- Cada vertical y cada miembro tiene permisos específicos para su repositorio correspondiente para un entorno colaborativo, seguro y enfocado.
 - ¡Disfruta del desafío y buena suerte! 🚀
