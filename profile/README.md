@@ -48,7 +48,7 @@ Desarrollar un MVP que replique la funcionalidad actual del workbook.
    - Estrategias creativas para llegar al público.
 
 6. **CLOUD & DEVOPS** ☁️
-   - Repositorio: [CLOUD AN DEVOPS](https://github.com/The-Bridge-Challenge/CLOUD-DEVOPS)
+   - Repositorio: [CLOUD AND DEVOPS](https://github.com/The-Bridge-Challenge/CLOUD-DEVOPS)
    - Automatización, despliegues, y gestión en la nube.
 
 ## Instrucciones Importantes:
