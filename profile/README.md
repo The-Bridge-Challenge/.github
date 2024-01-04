@@ -13,10 +13,15 @@ La versión inicial (fase 1) que implica el desafio de tripulaciones de TheBridg
 Desarrollar un MVP que replique la funcionalidad actual del workbook.
 
 *UX/UI*: Establecer la mejor linea de uso de la aplicación, haciendo que la introducción de datos del cliente y la definición de la oferta sean más intuitivas, con una interfaz amigable y moderna.
+
 *FULLSTACK*: Desarrollar una webApp de acuerdo con lo definido por UX/UI donde los asesores puedan logar, introducir datos de la factura y sacar sus comparativas en PDF.
+
 *MARKETING DIGITAL*: Establecer una estructura de campaña para la parte de negocio de atraer nuevos asesores energeticos interesados en el uso de la plataforma.
+
 *CIBERSEGURIDAD*: Tener en cuenta los mínimos de seguridad que deben ser parte del proyecto tanto en el nivel usuario y la propia app, como en los datos manejados.
+
 *CLOUD*: Concebir la arquitectura en la nube con desencadenadores para que la actualización sea automática con la carga de datos.
+
 *DATA SCIENCE*: Establecer mejorias en el sistema de data analisis y/o proponer un algoritmo para predecir precios en el mercado indexado (Actualmente la propuesta anual la hacemos con la media del mercado indexado del ultimo año).
 
 
