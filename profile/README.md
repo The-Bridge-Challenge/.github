@@ -25,30 +25,36 @@ Desarrollar un MVP que replique la funcionalidad actual del workbook.
 *DATA SCIENCE*: Establecer mejorias en el sistema de data analisis y/o proponer un algoritmo para predecir precios en el mercado indexado (Actualmente la propuesta anual la hacemos con la media del mercado indexado del ultimo año).
 
 
-## Verticales Disponibles:
+## Verticales:
 
 1. **UX/UI** 🎨
-   - Repositorio: [UX/UI](https://github.com/The-Bridge-Challenge/UX-UI)
+
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=The-Bridge-Challenge&repo=UX-UI&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/The-Bridge-Challenge/UX-UI)
    - ¡Diseña experiencias increíbles!
 
 2. **FULLSTACK** 💻
-   - Repositorio: [FULLSTACK](https://github.com/The-Bridge-Challenge/FULLSTACK)
+
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=The-Bridge-Challenge&repo=FULLSTACK&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/The-Bridge-Challenge/FULLSTACK)
    - Desarrolla soluciones completas desde el frontend hasta el backend.
 
 3. **DATA SCIENCE** 📊
-   - Repositorio: [DATA SCIENCE](https://github.com/The-Bridge-Challenge/DATA-SCIENCE)
+   
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=The-Bridge-Challenge&repo=DATA-SCIENCE&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/The-Bridge-Challenge/DATA-SCIENCE)
    - Sumérgete en el mundo de los datos y la ciencia.
 
 4. **CYBERSEGURIDAD** 🔐
-   - Repositorio: [CYBERSEGURIDAD](https://github.com/The-Bridge-Challenge/CYBERSEGURIDAD)
+
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=The-Bridge-Challenge&repo=CYBERSEGURIDAD&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/The-Bridge-Challenge/CYBERSEGURIDAD)
    - Protege sistemas y descifra desafíos de seguridad.
 
 5. **MARKETING** 📢
-   - Repositorio: [MARKETING](https://github.com/The-Bridge-Challenge/MARKETING)
+
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=The-Bridge-Challenge&repo=MARKETING&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/The-Bridge-Challenge/marketing)
    - Estrategias creativas para llegar al público.
 
 6. **CLOUD & DEVOPS** ☁️
-   - Repositorio: [CLOUD AND DEVOPS](https://github.com/The-Bridge-Challenge/CLOUD-DEVOPS)
+
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=The-Bridge-Challenge&repo=CLOUD-DEVOPS&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/The-Bridge-Challenge/CLOUD-DEVOPS)
    - Automatización, despliegues, y gestión en la nube.
 
 ## Instrucciones Importantes:
