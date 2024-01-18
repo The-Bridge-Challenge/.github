@@ -18,6 +18,7 @@ Añadido, por aca esta el Repositorio de Paloma Ocanha/Several Energy (Cliente),
 2. **FULLSTACK** 💻
 
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=The-Bridge-Challenge&repo=FULLSTACK&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/The-Bridge-Challenge/FULLSTACK)
+
    - Desarrolla soluciones completas desde el frontend hasta el backend.
 
 3. **DATA SCIENCE** 📊
