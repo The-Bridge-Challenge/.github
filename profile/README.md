@@ -4,6 +4,7 @@
 
 Aquí encontrarás diferentes verticales con el desafío emocionante en distintas áreas tecnológicas. Cada vertical tiene su propio repositorio y tiene informacion especifica dictada por nuestros mentores, asegurando un entorno colabborativo entre verticales.
 
+Consulta repo general de introduccion aqui:[![challenge](https://github.com/The-Bridge-Challenge/Challenge)
 Añadido, por aca esta el Repositorio de Paloma Ocanha/Several Energy (Cliente), para investigaciones y ver como realizar el proyecto 
 
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=The-Bridge-Challenge&repo=DESAFIO_TRIPULACIONES_SEVERAL&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/The-Bridge-Challenge/DESAFIO_TRIPULACIONES_SEVERAL)
