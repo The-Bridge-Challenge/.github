@@ -4,6 +4,8 @@
 
 Aquí encontrarás diferentes verticales con el desafío emocionante en distintas áreas tecnológicas. Cada vertical tiene su propio repositorio y tiene informacion especifica dictada por nuestros mentores, asegurando un entorno colabborativo entre verticales.
 
+[Nuestra app desarrollada!](https://cloudbuilds-client-folgybvrpq-ew.a.run.app/)
+
 Consulta repo general de introduccion aqui:[Challenge](https://github.com/The-Bridge-Challenge/Challenge)
 
 Añadido, por aca esta el Repositorio de Paloma Ocanha/Several Energy (Cliente), para investigaciones y ver como realizar el proyecto 
