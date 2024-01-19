@@ -4,13 +4,14 @@
 
 Aquí encontrarás diferentes verticales con el desafío emocionante en distintas áreas tecnológicas. Cada vertical tiene su propio repositorio y tiene informacion especifica dictada por nuestros mentores, asegurando un entorno colabborativo entre verticales.
 
-[Nuestra app desarrollada!](https://cloudbuilds-client-folgybvrpq-ew.a.run.app/)
+# [SeveralApp](https://cloudbuilds-client-folgybvrpq-ew.a.run.app/)
 
-Consulta repo general de introduccion aqui:[Challenge](https://github.com/The-Bridge-Challenge/Challenge)
+# ![several123](https://github.com/The-Bridge-Challenge/.github/assets/143126480/50502a54-930f-4401-b5c5-78c5838881b9)
 
-Añadido, por aca esta el Repositorio de Paloma Ocanha/Several Energy (Cliente), para investigaciones y ver como realizar el proyecto 
 
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=The-Bridge-Challenge&repo=DESAFIO_TRIPULACIONES_SEVERAL&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/The-Bridge-Challenge/DESAFIO_TRIPULACIONES_SEVERAL)
+# Repositorio integral
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=The-Bridge-Challenge&repo=Challenge&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/The-Bridge-Challenge/Challenge)
+
 
 ## Verticales:
 
